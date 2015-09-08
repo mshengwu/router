@@ -1,0 +1,14 @@
+{
+    "name": "sw/router",
+    "description": "shengwu",
+    "authors": [
+        {
+            "name": "shengwu",
+            "email": "huangshengwu@moode.cn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"sw\\baidu\\": ""}
+    },
+    "require": {}
+}
